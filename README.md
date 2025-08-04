@@ -22,7 +22,7 @@ I used Excel, MySQL, and Tableau to clean, analyze, and visualize the data.
 - /Tableau-visualizations: Tableau dashboards (view below)
 
 # 🔍 Tableau Dashboard File
-- Download the dashboard and open it in Tableau Desktop or Tableau Public to explore it: [Download Healthcare Tableau Dashboard](./Tableau_Dashboard_File.twbx)
+- Download the dashboard and open it in Tableau Desktop or Tableau Public to explore it: [Download Healthcare Tableau Dashboard](./Tableau-Dashboard---Healthcare-Data-Analytics.twbx)
 
 # 📎 Key Insights
 - Higher GDP does not always correlate with better COVID outcomes
