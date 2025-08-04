@@ -19,10 +19,10 @@ I used Excel, MySQL, and Tableau to clean, analyze, and visualize the data.
 - /original-datasets: Raw datasets
 - /filtered-datasets: Cleaned datasets
 - /MySQL-queries: MySQL scripts used for data extraction
-- /Tableau-visualizations: Tableau dashboards (view below)
+- /Tableau-visualizations: Interactive Tableau dashboards (view below)
 
 # 🔍 Tableau Dashboard File
-- Download the dashboard and open it in Tableau Desktop or Tableau Public to explore it: [Download Healthcare Tableau Dashboard](./Tableau-Dashboard---Healthcare-Data-Analytics.twbx)
+- Download the dashboard and open it in Tableau Desktop or Tableau Public to explore it: [Download Tableau Dashboard](https://github.com/MieOtani/Healthcare-Data-Anaytics/blob/1c32a104ef0ed92ae38a77bb0867530466d476f2/Tableau%20Dashboard%20-%20Healthcare%20Data%20Analytics.twbx)
 
 # 📎 Key Insights
 - Higher GDP does not always correlate with better COVID outcomes
